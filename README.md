@@ -38,10 +38,15 @@ Pindah ke folder tersebut dengan
 cd Nama-project-kalian
 ```
 
-Installing Jetstream di dalam folder project kalia, Pastikan sudah menginstall composer
+Installing Jetstream di dalam folder project kalian, Pastikan sudah menginstall composer
 
 ```
 composer require laravel/jetstream
+```
+next install livewire dengan jetstream
+
+```
+php artisan jetstream:install livewire
 ```
 
 ## License
