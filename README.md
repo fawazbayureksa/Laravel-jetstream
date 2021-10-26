@@ -23,7 +23,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## STEP 
 
-Pertama tama buat project laravel baru kalian 
+Pertama tama buat project laravel baru kalian di dalam folder htdocs jika menggunakan xampp
 
 ```
 Laravel new Nama-project-kalian
