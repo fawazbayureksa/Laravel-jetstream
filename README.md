@@ -55,9 +55,13 @@ Kemudian setelah menginstal Jetstream, Kalian harus menginstal dan membangun dep
 
 ```
 npm install && npm run dev
-
 ```
 
+dan terlebih dahulu kalian mempublikasikan Livewire:
+
+```
+php artisan vendor:publish --tag=jetstream-views
+```
 
 ## License
 
