@@ -25,10 +25,9 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 Pertama tama buat project laravel baru kalian 
 
-'''
+```
 Laravel new Nama-project-kalian
-
-'''
+```
 
 
 
