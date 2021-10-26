@@ -21,9 +21,14 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## SETUP
+## STEP 
 
-Pertama tama 
+Pertama tama buat project laravel baru kalian 
+
+'''
+Laravel new Nama-project-kalian
+
+'''
 
 
 
