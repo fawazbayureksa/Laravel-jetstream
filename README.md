@@ -51,9 +51,12 @@ php artisan jetstream:install livewire
 
 Kemudian setelah menginstal Jetstream, Kalian harus menginstal dan membangun dependensi NPM pastikan sudah menginstall node js 
 
- - cara install Node js <a href="https://nodejs.org/en/download/">Install Node Js</a>
+ - cara install Node js <a href="https://nodejs.org/en/download/">Node Js</a>
 
+```
+npm install && npm run dev
 
+```
 
 
 ## License
