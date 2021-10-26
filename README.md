@@ -38,6 +38,11 @@ Pindah ke folder tersebut dengan
 cd Nama-project-kalian
 ```
 
+Installing Jetstream di dalam folder project kalia, Pastikan sudah menginstall composer
+
+```
+composer require laravel/jetstream
+```
 
 ## License
 
