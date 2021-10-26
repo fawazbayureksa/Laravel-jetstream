@@ -24,7 +24,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ## STEP 
 Buka terminal kalian pastikan sudah menginstall Laravel 
 
-cara install laravel <a href="https://laravel.com/docs/8.x">Install laravel</a>
+    *cara install laravel <a href="https://laravel.com/docs/8.x">Install laravel</a>
 
 Pertama tama buat project laravel baru kalian di dalam folder htdocs jika menggunakan xampp
 
@@ -32,7 +32,11 @@ Pertama tama buat project laravel baru kalian di dalam folder htdocs jika menggu
 Laravel new Nama-project-kalian
 ```
 
-Pindah ke folder tersebut
+Pindah ke folder tersebut dengan 
+
+```
+cd Nama-project-kalian
+```
 
 
 ## License
