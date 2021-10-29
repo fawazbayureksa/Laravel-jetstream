@@ -63,6 +63,17 @@ dan terlebih dahulu kalian mempublikasikan Livewire:
 php artisan vendor:publish --tag=jetstream-views
 ```
 
+## Fitur
+
+Add Password rules in App\Actions\Fortify\PasswordValidationRules , 
+
+add
+
+* use Laravel\Fortify\Rules\Password;
+
+in function passwordRules new password change = (new Password)->length(10)->requireUppercase() 
+
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
