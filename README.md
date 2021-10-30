@@ -73,6 +73,11 @@ add
 
 in function passwordRules new password change = (new Password)->length(10)->requireUppercase() 
 
+Update to add fitur change profil picture in config/jetstream.php
+
+cancel coment in features 
+
+* Features::profilePhotos(),
 
 ## License
 
